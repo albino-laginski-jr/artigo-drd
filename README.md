@@ -1,4 +1,4 @@
-# artigo-drd
+
 UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ (UTFPR)
 ALBINO LAGINSKI JUNIOR
 
@@ -59,6 +59,7 @@ Mortes Violentas Intencionais_Tabela.csv
 mvi_por_aisp.csv
 relacao_municipios_aisp.csv
 resultado_dea_aisp.csv
+
 
 3.Malha Vetorial
 
